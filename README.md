@@ -1,7 +1,3 @@
-Certainly! Let's go step by step through the code and create a corresponding explanation for each part in your README.md file. Here's an outline of the sections you might want to include:
-
----
-
 # Decision Tree Classifier Example to Predict Customer Churn
 
 ## Overview
